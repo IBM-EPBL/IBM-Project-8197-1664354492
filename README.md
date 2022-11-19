@@ -15,7 +15,7 @@ Crude Oil Price Prediction
 19I362- SOWMYAA SHRI S
 
 **Demo video link:**
-https://drive.google.com/file/d/1GfkcmeU1RDwZZwji28tnJJI0LAEeJEjN/view?usp=sharing
+https://youtu.be/IyygZx4TYhc
 
 **dataset link:**
 https://docs.google.com/spreadsheets/d/1iiseS50u7CHhqs70W6Z46w5ShvIt-Ds-/edit#gid=1272352392
